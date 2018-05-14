@@ -1,7 +1,11 @@
 -- phpMyAdmin SQL Dump
 -- version 4.7.0
 -- https://www.phpmyadmin.net/
---
+
+
+-- Ceci est ma base de donnée
+
+
 -- Hôte : 127.0.0.1
 -- Généré le :  lun. 14 mai 2018 à 11:22
 -- Version du serveur :  10.1.26-MariaDB
